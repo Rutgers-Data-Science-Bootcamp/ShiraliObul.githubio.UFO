@@ -23,6 +23,7 @@ The main goal of this project is to create an interactive webpage that allows re
      2. It would be helpful if searches can be filtered by the duration of the UFO sighting by grouping the time entries in bins; 
      3. There should be a click button after typing the filtering criteria.
      4. Including a button to clear the filters is also needed. The button would be located below the last filter.
+**[`^        back to top        ^`](#Overview-of-Project)**
      
 ## Resources:
 ##### Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 4.0.0
